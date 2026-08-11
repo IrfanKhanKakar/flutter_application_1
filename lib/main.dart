@@ -23,12 +23,13 @@ class MyApp extends StatelessWidget {
         // the command line to start the app).
         //
         // Notice that the counter didn't reset back to zero; the applicationr
-        
+
         // state is not lost during the reload. To reset the state, use hot
         // restart instead.
         //
         // This works for code too, not just values: Most code changes can be
         // tested with just a hot reload.
+        // irfan khan test changes
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
